@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles Souza | IDEA</title>
+    <link>/author/charles-souza/</link>
+      <atom:link href="/author/charles-souza/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles Souza</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Grupo de Estudos IDEA</copyright>
+    <image>
+      <url>/author/charles-souza/avatar_hu091ecf68c60c7036d0ce413a013d296f_1130989_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Charles Souza</title>
+      <link>/author/charles-souza/</link>
+    </image>
+    
+  </channel>
+</rss>
