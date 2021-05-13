@@ -50,7 +50,7 @@
     <loc>/tag/lasso/</loc>
     <lastmod>2021-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/9/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/patentes/</loc>
@@ -92,6 +92,9 @@
     <loc>/publication/caliari_12_2019/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/josiane_12_2019/josiane_dezembro_2019/</loc>
+    <lastmod>2019-12-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tag/innovation-system/</loc>
     <lastmod>2019-11-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -103,9 +106,6 @@
   </url><url>
     <loc>/tag/st-public-policy/</loc>
     <lastmod>2019-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/aquisicoes-de-defesa/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
@@ -127,6 +127,18 @@
   </url><url>
     <loc>/publication/caliari_06_2019/</loc>
     <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/embraer/</loc>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/pmpok/</loc>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/programa-de-defesa/</loc>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/josiane_2019/josiane/</loc>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/gilberto_ligia_calieri_2018/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
@@ -151,15 +163,13 @@
   </url><url>
     <loc>/author/gilberto-correa/</loc>
   </url><url>
+    <loc>/author/josiane-francelino/</loc>
+  </url><url>
+    <loc>/author/ligia-urbina/</loc>
+  </url><url>
     <loc>/post/</loc>
   </url><url>
     <loc>/author/mayara-bovo/</loc>
-  </url><url>
-    <loc>/author/pesquisador-1/</loc>
-  </url><url>
-    <loc>/author/pesquisador-2/</loc>
-  </url><url>
-    <loc>/author/pesquisador-3/</loc>
   </url><url>
     <loc>/author/thiago-caliari/</loc>
   </url>
