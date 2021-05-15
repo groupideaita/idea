@@ -5,12 +5,39 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>IDEA</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Grupo de Estudos IDEA 2021</copyright><lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Grupo de Estudos IDEA 2021</copyright><lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu75337288d29eac1d5ff9847d6961fa2a_43488_300x300_fit_lanczos_2.png</url>
       <title>IDEA</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Compras Públicas para a Inovação em Países em Desenvolvimento: a Experiência com os Offsets no setor Aeronáutico Brasileiro</title>
+      <link>/publication/enei5-2021/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/enei5-2021/</guid>
+      <description>&lt;p&gt;Para mais informações acesse: &lt;a href=&#34;https://www.proceedings.blucher.com.br/article-details/compras-pblicas-para-a-inovao-em-pases-em-desenvolvimento-a-experincia-com-os-offsets-no-setor-aeronutico-brasileiro-36356&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;V Encontro Nacional de Economia Industrial e Inovação&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1.º Seminário de Fomento da Indústria Aeroespacial</title>
+      <link>/event/ifi-2021/</link>
+      <pubDate>Wed, 12 May 2021 09:00:00 +0000</pubDate>
+      <guid>/event/ifi-2021/</guid>
+      <description>&lt;!--
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+
+--&gt;
+</description>
+    </item>
     
     <item>
       <title>Technological Cumulativeness and Innovation in Brazilian Manufacturing Industry: Evidences from Brazilian Innovation Surveys 2008, 2011, and 2014</title>
