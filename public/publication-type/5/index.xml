@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 | IDEA</title>
+    <link>/publication-type/5/</link>
+      <atom:link href="/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
+    <description>5</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Grupo de Estudos IDEA 2021</copyright><lastBuildDate>Sat, 01 May 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu75337288d29eac1d5ff9847d6961fa2a_43488_300x300_fit_lanczos_2.png</url>
+      <title>5</title>
+      <link>/publication-type/5/</link>
+    </image>
+    
+    <item>
+      <title>Métodos de Tomada de Decisão com Múltiplos Critérios</title>
+      <link>/publication/ligia_book/ligia_2010/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/ligia_book/ligia_2010/</guid>
+      <description>&lt;p&gt;Para mais informações acesse: &lt;a href=&#34;https://www.blucher.com.br/livro/detalhes/metodos-de-tomada-de-decisao-com-multiplos-criterios-987/engenharia-metalurgica-197&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blucher&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
