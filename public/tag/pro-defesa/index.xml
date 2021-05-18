@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Indústria Aeroespacial | IDEA</title>
-    <link>/tag/industria-aeroespacial/</link>
-      <atom:link href="/tag/industria-aeroespacial/index.xml" rel="self" type="application/rss+xml" />
-    <description>Indústria Aeroespacial</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Grupo de Estudos IDEA 2021</copyright><lastBuildDate>Wed, 12 May 2021 09:00:00 +0000</lastBuildDate>
+    <title>Pró-Defesa | IDEA</title>
+    <link>/tag/pro-defesa/</link>
+      <atom:link href="/tag/pro-defesa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pró-Defesa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Grupo de Estudos IDEA 2021</copyright><lastBuildDate>Fri, 28 May 2021 09:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_huf08263858b5ff4e6c3d8480bf5990291_33266_512x512_fill_lanczos_center_2.png</url>
-      <title>Indústria Aeroespacial</title>
-      <link>/tag/industria-aeroespacial/</link>
+      <title>Pró-Defesa</title>
+      <link>/tag/pro-defesa/</link>
     </image>
     
     <item>
-      <title>1.º Seminário de Fomento da Indústria Aeroespacial</title>
-      <link>/event/05_2021/ifi/</link>
-      <pubDate>Wed, 12 May 2021 09:00:00 +0000</pubDate>
-      <guid>/event/05_2021/ifi/</guid>
+      <title>1º. Webinar Projeto Economia da Defesa</title>
+      <link>/event/05_2021/prodefesa/</link>
+      <pubDate>Fri, 28 May 2021 09:00:00 +0000</pubDate>
+      <guid>/event/05_2021/prodefesa/</guid>
       <description>&lt;!--
 Slides can be added in a few ways:
 
