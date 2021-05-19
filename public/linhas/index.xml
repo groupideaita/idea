@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linhas de pesquisa | IDEA</title>
+    <link>/linhas/</link>
+      <atom:link href="/linhas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linhas de pesquisa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Grupo de Estudos IDEA 2021</copyright>
+    <image>
+      <url>/images/icon_huf08263858b5ff4e6c3d8480bf5990291_33266_512x512_fill_lanczos_center_2.png</url>
+      <title>Linhas de pesquisa</title>
+      <link>/linhas/</link>
+    </image>
+    
+  </channel>
+</rss>
