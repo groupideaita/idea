@@ -32,9 +32,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>Uma breve histórico da evolução dos gastos militares no mundo e no Brasil</title>
-      <link>/post/2021-05-19-maio/thiago_05/</link>
+      <link>/post/maio_2021/thiago_05/</link>
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
-      <guid>/post/2021-05-19-maio/thiago_05/</guid>
+      <guid>/post/maio_2021/thiago_05/</guid>
       <description>
 &lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
@@ -42,32 +42,18 @@ Further event details, including page elements such as image galleries, can be a
 &lt;p&gt;Esse breve artigo tem o intuito de apresentar, de maneira sucinta, a evolução dos gastos militares em uma perspectiva histórica ampla. O intuito desse exercício é explorar a evolução da importância do orçamento, com vistas a entender a dinâmica com os momentos históricos vividos na economia mundial, em geral, e no Brasil, em especial.&lt;/p&gt;
 &lt;p&gt;Os dados foram extraídos da plataforma SIPRI (&lt;em&gt;Stockholm International Peace Research Institute&lt;/em&gt;) e estão disponibilizados publicamente &lt;a href=&#34;https://sipri.org/databases/milex&#34;&gt;aqui&lt;/a&gt;. O horizonte temporal considerado para a análise abarca todo o período disponibilizado pela base, que vai de 1949 a 2020.&lt;/p&gt;
 &lt;p&gt;Para nos situarmos na situação geral, o primeiro gráfico apresenta a evolução dos gastos a nível mundial, observando gastos totais (em valores constantes de USD de 2019) e em porcentagem do PIB.&lt;/p&gt;
-&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:Imagem1&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;Imagem1.png&#34; alt=&#34;Economia fechada sem formação de capital&#34; width=&#34;650px&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figura 1: Economia fechada sem formação de capital
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;imagem1.jpg&#34; width=&#34;974&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;A queda do orçamento como participação do PIB a partir de 1990 é algo a ser destacado e reflete o movimento já evidenciado na literatura de defesa, justamente o fim da Guerra Fria &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-hartley1995&#34; role=&#34;doc-biblioref&#34;&gt;HARTLEY; SANDLER, 1995&lt;/a&gt;)&lt;/span&gt;. Um ponto importante, porém, é que essa mudança de patamar só é seguida pelo total do orçamento de defesa até o final dos anos 1990, quando há uma reversão para crescimento, voltando de alguma maneira ao mesmo padrão de crescimento verificado nos anos pré-Guerra Fria (evidenciado pela linha de tendência em azul). A evolução das dez principais potências do mundo em orçamento militar em 2020 demonstra os principais players para a evolução desse movimento.&lt;/p&gt;
-&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:Imagem2&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;Imagem2.png&#34; alt=&#34;Economia fechada sem formação de capital&#34; width=&#34;650px&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figura 2: Economia fechada sem formação de capital
-&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;Imagem2.jpg&#34; width=&#34;974&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Em resumo, duas principais mudanças podem ser destacadas: a volta do orçamento militar americano a patamares maiores já em 2001, reflexo dos atentados terroristas em solo estadunidense (ataques às torres gêmeas e ao Pentágono), e o aumento do orçamento militar chinês, também já a partir do mesmo período, em par com o aumento da importância econômica da China e a busca por capacidades dissuasórias no jogo de poder internacional. A china passa a responder, em 2020, a 12.8% de todo o orçamento mundial em defesa, ante a 4.3% em 2001 (crescimento de 198%).&lt;/p&gt;
 &lt;p&gt;Pode-se observar, portanto, que a diminuição da participação interna no PIB no contexto geral não expressou, necessariamente, a queda da importância dos orçamentos públicos para defesa nos principais países. Em resumo, a pressão das novas fronteiras de guerra – com a ascensão do terrorismo e inserção do exército americano em territórios de conflito na Ásia e Oriente Médio – e a pressão chinesa elevaram a importância militar; juntos, os dois países respondem em 2020 por 53% de todo o orçamento militar mundial.&lt;/p&gt;
 &lt;p&gt;Adicionalmente, é importante salientar que, especialmente durante a Guerra Fria, a ciência e a tecnologia, com suas conexões industriais, tornaram-se decisivamente estratégicas na disputa militar como vetores da defesa nacional. Essa reordenação afetou a produção industrial e o próprio ambiente de combate, tornando a evolução das capacidades militares mais dependentes das capacidades científicas e tecnológicas, no limite igualando “conhecimento” a “poder” &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-paarlberg2004&#34; role=&#34;doc-biblioref&#34;&gt;PAARLBERG, 2004&lt;/a&gt;)&lt;/span&gt;⁠⁠. Como observado por Dunne &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Dunne1995&#34; role=&#34;doc-biblioref&#34;&gt;1995, p. 405&lt;/a&gt;)&lt;/span&gt; a exigência de uma Base Industrial de Defesa migrou da necessidade de ‘…manter instalações de produção completas para a possibilidade de manter a autonomia estratégica por meio da manutenção da capacidade tecnológica para produzir sistemas avançados de armas’. Esse aumento do aparato tecnológico gera pressão monetária que se evidencia no aumento dos custos de produção e, consequentemente, no custo de aquisição dos equipamentos militares.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;E o Brasil?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;O Brasil possuía, em 2020, o 13º maior orçamento militar do mundo com um valor de USD 25 bilhões (valores de 2019), mantendo essa posição intermediária, com leves mudanças, desde o início dos anos 2000. Para observar a evolução dos dados nacionais, optamos por diminuir o horizonte temporal, para captar mudanças resultantes de questões políticas, considerando os valores a partir de 1964, quando se inicia os governos militares.&lt;/p&gt;
-&lt;div class=&#34;figure&#34; style=&#34;text-align: center&#34;&gt;&lt;span id=&#34;fig:Imagem3&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;Imagem3.png&#34; alt=&#34;Economia fechada sem formação de capital&#34; width=&#34;650px&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figura 3: Economia fechada sem formação de capital
-&lt;/p&gt;
-&lt;/div&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;knitr::include_graphics(&amp;quot;Imagem3.jpg&amp;quot;, error = FALSE)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;Imagem3.jpg&#34; width=&#34;974&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Imagem3.jpg&#34; width=&#34;650px&#34; style=&#34;display: block; margin: auto;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;A evolução mostra que o comportamento do orçamento público no Brasil é ditado, em muitos momentos, pelo componente político. Apesar de ser vivenciado um governo militar até 1985, o orçamento como proporção do PIB cai bastante nesse período, e o aumento da porcentagem do orçamento mundial não consolidou valores maiores do que o do período democrático, que apenas atravessou o valor de 1% de participação mundial após o governo de Itamar Franco.
 É verdade que a participação no valor total mundial é influenciada pela taxa de câmbio do período, o que explica o aumento, principalmente, entre 1994-2001. De qualquer forma, o aumento de participação do orçamento militar no PIB nos governos José Sarney e Itamar Franco são bastante expressivos, e a queda nos governos militares e no governo de Fernando Collor também são claras.&lt;/p&gt;
