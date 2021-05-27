@@ -13,11 +13,20 @@
     </image>
     
     <item>
-      <title>1º. Webinar Projeto Economia da Defesa</title>
+      <title>1º Webinar - Economia de Defesa no Brasil</title>
       <link>/event/05_2021/prodefesa/</link>
       <pubDate>Fri, 28 May 2021 09:00:00 +0000</pubDate>
       <guid>/event/05_2021/prodefesa/</guid>
-      <description>&lt;!--
+      <description>&lt;p&gt;9:00hs — Abertura
+Major-Brigadeiro Intendente Marcos Aurélio Pereira da Silva (Diretor de Financiamentos e Economia — SEPROD/MD), Prof. Célio Hiratuka (Diretor Associado do Instituto de Economia da UNICAMP) e Prof. Marcos José Barbieri Ferreira (Coordenador do Projeto).&lt;/p&gt;
+&lt;p&gt;9:30hs — Instituto Tecnológico de Aeronáutica (ITA): Programas de aquisição da FAB e os impactos na indústria e no sistema aeroespacial &lt;br&gt;
+Profª. Ligia Maria Soto Urbina, Prof. Thiago Caliari, Drª. Josiane de Araújo Francelino e Ms. Gilberto Mohr Correa&lt;/p&gt;
+&lt;p&gt;10:30hs — Debate&lt;/p&gt;
+&lt;p&gt;11:00hs — Escola Superior de Guerra (ESG): Investimentos no Brasil e os impactos dos investimentos da defesa&lt;br&gt;
+Profª. Ariela Diniz Cordeiro Leske, Ms. Rafael Morais Lima e Prof. Carlos Conte (UFSM)&lt;/p&gt;
+&lt;p&gt;12:00hs — Debate&lt;/p&gt;
+&lt;p&gt;12:30hs — Encerramento&lt;/p&gt;
+&lt;!--
 Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
