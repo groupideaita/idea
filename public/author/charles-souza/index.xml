@@ -5,12 +5,416 @@
     <link>/author/charles-souza/</link>
       <atom:link href="/author/charles-souza/index.xml" rel="self" type="application/rss+xml" />
     <description>Charles Souza</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Grupo de Estudos IDEA 2021</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Grupo de Estudos IDEA 2021</copyright><lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/charles-souza/avatar_hu22551aab299e2b4a1f889e4b81cc06e3_530272_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/images/icon_huf08263858b5ff4e6c3d8480bf5990291_33266_512x512_fill_lanczos_center_2.png</url>
       <title>Charles Souza</title>
       <link>/author/charles-souza/</link>
     </image>
+    
+    <item>
+      <title>Panorama do depósito de patentes no Setor Aeroespacial</title>
+      <link>/post/charles/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>/post/charles/</guid>
+      <description>
+&lt;script src=&#34;/post/charles/index.pt_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/post/charles/index.pt_files/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/post/charles/index.pt_files/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+
+
+&lt;div id=&#34;introdução&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Introdução&lt;/h1&gt;
+&lt;p&gt;Todo e qualquer plano político de desenvolvimento de econômico de um país deverá ter como pano de fundo inarredável a análise do nível científico e tecnológico de sua estrutura produtiva.
+Dito de outro modo, os vínculos entre a ação política, por um lado e, por outro, o progresso econômico só se tornam inteligíveis a partir da observação do arranjo produtivo interno e sua relevância no mercado global.&lt;/p&gt;
+&lt;p&gt;Um dos exemplos mais marcantes desse elo verifica-se, de modo evidente, na formação do complexo aeronáutico brasileiro em meados dos anos 1940. À época, o país respondia à necessidade de firmar uma posição diante do aumento da importância da aeronáutica militar após a Segunda Guerra Mundial. Ademais, a agenda científico-tecnológica ganhava cada vez mais importância nos países desenvolvidos. Estavam ocorrendo mudanças significativas na estrutura produtiva desses países, que em parte podem ser creditadas à nova Divisão Internacional do Trabalho (DIT), ditada por uma nova concepção de vantagens comparativas fundamentadas no desenvolvimento tecnológico. O setor aeronáutico figurava na linha de frente dessas mudanças &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Almeida2006&#34; role=&#34;doc-biblioref&#34;&gt;ALMEIDA, 2006&lt;/a&gt;; &lt;a href=&#34;#ref-Forjaz2005&#34; role=&#34;doc-biblioref&#34;&gt;FORJAZ, 2005&lt;/a&gt;)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Os desdobramentos dessas ações explicam, em parte, o crescimento do complexo aeroespacial brasileiro e sua participação no cenário internacional. O país emergiu como um importante &lt;em&gt;cluster&lt;/em&gt; aeroespacial no cone sul e ocupa papel de destaque no segmento de aeronaves.&lt;/p&gt;
+&lt;p&gt;Esses fatos trazem ao centro do palco algumas ponderações sobre as oportunidades de crescimento do setor e o papel do Estado nesse processo. Este editorial é o primeiro de uma série que procura evidenciar, através de dados, as especificidades do setor aeroespacial e as janelas de oportunidades que ele comporta.&lt;/p&gt;
+&lt;p&gt;Posto isso, inicia-se estas considerações sobre as particularidades do setor aeroespacial, verificando a distribuição entre países de patentes em três segmentos da cadeia produtiva, a saber: aeronaves acabadas, sistema de propulsão e outros componentes.&lt;/p&gt;
+&lt;p&gt;Como introdução, cabe registar que um dos objetivos dos editoriais do IDEA é apresentar, sucintamente, alguns temas de estudo dos colaboradores do grupo, sem recorrer ao rigor da abordagem científica dos estudos conclusos ou em andamento.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;patentes-no-setor-aeroespacial&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Patentes no setor aeroespacial&lt;/h1&gt;
+&lt;p&gt;As informações das cartas de patentes têm sido utilizadas em estudos científicos como uma &lt;em&gt;proxy&lt;/em&gt; das mudanças tecnológicas. Aquelas contêm informações sobre as inovações, o inventor, o depositante, o segmento industrial, dados sobre outras patentes que a inspiraram, entre outras informações.&lt;/p&gt;
+&lt;p&gt;Nesse sentido, utilizaram-se os dados do escritório dos Estados Unidos de patentes, &lt;em&gt;United States Patent and Trademark Office&lt;/em&gt; (USPTO), para analisar o depósito de patentes dos segmentos supracitados entre 2000 e 2020. A escolha dos subitens do setor aeroespacial seguiu o padrão utilizado pelo Sistema Harmonizado (HS) com seis dígitos. Observou-se a metodologia proposta por Lybbert e Zolas &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Lybbert2014&#34; role=&#34;doc-biblioref&#34;&gt;2014&lt;/a&gt;)&lt;/span&gt; para fazer a associação entre as patentes da Classificação Cooperativa de Patentes (CPC) do USPTO e as divisões do HS. As análises foram feitas com o software estatístico R, em especial, aplicou-se funções do pacote &lt;em&gt;patentsview&lt;/em&gt;.&lt;/p&gt;
+&lt;div id=&#34;patentes-no-segmento-de-aeronaves&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Patentes no segmento de aeronaves&lt;/h2&gt;
+&lt;p&gt;A Tabela &lt;a href=&#34;#tab:tabelaaer&#34;&gt;1&lt;/a&gt; mostra os produtos do setor aeroespacial do segmento de aeronaves acabadas.&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;caption&gt;
+&lt;span id=&#34;tab:tabelaaer&#34;&gt;Tabela 1: &lt;/span&gt;Aeronaves acabadas
+&lt;/caption&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+HS
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Aeronaves
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8802.11
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Helicópteros de peso não superior a 2.000 kg, vazios (sem carga)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8802.12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Helicópteros de peso superior a 2.000 kg, vazios (sem carga)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8802.20
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Aviões e outros veículos aéreos, de peso não superior a 2.000 kg, vazios (sem carga)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8802.30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Aviões e outros veículos aéreos, de peso superior a 2.000 kg, mas não superior a 15.000 kg, vazios (sem carga)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8802.40
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Aviões e outros veículos aéreos, de peso superior a 15.000 kg, vazios (sem carga)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8802.60
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Veículos espaciais (incluindo os satélites) e seus veículos de lançamento, e veículos suborbitais
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src=&#34;mapa_aer.html&#34; height=&#34;470px&#34; width=&#34;100%&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Há uma concentração importante dos países desenvolvido no depósito de patentes de aeronaves acabadas.
+Destaca-se desse segmento o predomínio das empresas americanas, só &lt;em&gt;Boeing Company&lt;/em&gt; registrou mais de 2.500 patentes durante o interregno da amostra. No Brasil destaca-se, como esperado, a EMBRAER S.A. com dezoito patentes nesse segmento.
+Essa simples observação abre um flanco para ponderações sobre discrepância entre as empresas do país e as que integram os principais &lt;em&gt;clusters&lt;/em&gt; do setor.
+A EMBRAER, uma das principais empresas do setor aeronáutico, apresenta um desempenho muito inferior ao das suas concorrentes no depósito de patentes, considerando os critérios metodológicos apresentados anteriormente.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;patentes-no-segmento-de-sistemas-de-propulsão&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Patentes no segmento de sistemas de propulsão&lt;/h2&gt;
+&lt;p&gt;A Tabela &lt;a href=&#34;#tab:tabelasis&#34;&gt;2&lt;/a&gt; mostra os produtos do setor aeroespacial no segmento de sistemas de propulsão.&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;caption&gt;
+&lt;span id=&#34;tab:tabelasis&#34;&gt;Tabela 2: &lt;/span&gt;Sistemas de Propulsão
+&lt;/caption&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+HS
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Sistemas
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8407.10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Motores para aviação
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8408.90
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Motores de aeronaves de pistão, de ignição por compressão (motores diesel ou semidiesel)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8409.10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Partes de motores para aviação
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8411.11
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Turborreatores de empuxo (impulso*) não superior a 25 kN
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8411.12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Turborreatores de empuxo (impulso*) superior a 25 kN
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8411.21
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Turbopropulsores de potência não superior a 1.100 kW
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8411.22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Turbopropulsores de potência superior a 1.100 kW
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8411.81
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Turbinas a gás, exceto turbo-jatos ou turbo-hélices, de potência não superior a 5.000 kW
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8411.82
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Turbinas a gás, exceto turbo-jatos ou turbopropulsores, de potência superior a 5.000 kW
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8411.91
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Partes de turborreatores ou de turbopropulsores
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8411.99
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Partes de turbinas a gás, exceto turbo-jatos ou turbo-hélices
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8412.10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Propulsores a reação, excluindo os turborreatores
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!--Sistemas de propulsão--&gt;
+&lt;p&gt;A figura a seguir mostra o depósito de patentes associadas às categorias dos sistemas de propulsão envidenciadas na Tabela &lt;a href=&#34;#tab:tabelasis&#34;&gt;2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src=&#34;mapa_sis.html&#34; height=&#34;470px&#34; width=&#34;100%&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;No que concerne aos depósitos de patentes de sistemas de propulsão, A Figura anterior permite observar uma discrepância ainda maior entre os &lt;em&gt;clusters&lt;/em&gt; do cone sul e dos países que estão na fronteira tecnológica. Do mesmo modo, há um predomínio das empresas norte-americanas e europeias, companhias como &lt;em&gt;United Technologies Corporation&lt;/em&gt;, &lt;em&gt;General Electric Company&lt;/em&gt; e &lt;em&gt;Boeing Company&lt;/em&gt; protagonizam a relação das maiores depositantes. O Brasil registrou apenas duas patentes no segmento em evidência.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;patentes-em-outros-componentes&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Patentes em outros componentes&lt;/h2&gt;
+&lt;p&gt;A Tabela &lt;a href=&#34;#tab:tabelaout&#34;&gt;3&lt;/a&gt; mostra outros produtos do setor aeroespacial.&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;caption&gt;
+&lt;span id=&#34;tab:tabelaout&#34;&gt;Tabela 3: &lt;/span&gt;Outros componentes
+&lt;/caption&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+HS
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Outros
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+4011.30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Pneumáticos novos de borracha do tipo utilizado em veículos aéreos
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+4012.13
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Pneumáticos recauchutados ou usados de borracha do tipo utilizado em veículos aéreos
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8803.10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Hélices e rotores, e suas partes
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8803.20
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Trens de aterrissagem (aterragem*) e suas partes
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8803.30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Outras partes de aviões ou de helicópteros
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8803.90
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Outras partes para veículos aéreos/espaciais
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8804.00
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Paraquedas
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8805.10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Aparelhos e dispositivos para lançamento de veículos aéreos, e suas partes; aparelhos e dispositivos para aterrissagem de veículos aéreos em porta-aviões e aparelhos e dispositivos semelhantes, e suas partes
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8805.21
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Aparelhos de treinamento de voo em terra e suas partes: simuladores de combate aéreo e suas partes
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+8805.29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Aparelhos de treinamento de voo em terra e suas partes: outros
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+9014.20
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Instrumentos e aparelhos para navegação aérea ou espacial (exceto bússolas)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;color: #5d8aa8 !important;&#34;&gt;
+9401.10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Assentos do tipo utilizado em veículos aéreos
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!--Outros--&gt;
+&lt;p&gt;A figura abaixo evidencia os depósitos de patentes dos produtos descritos na Tabela &lt;a href=&#34;#tab:tabelaout&#34;&gt;3&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe src=&#34;mapa_com.html&#34; height=&#34;470px&#34; width=&#34;100%&#34; style=&#34;border:none;&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;No caso das patentes associadas ao segmento ‘outros componentes’, que contempla os produtos de menor valor agregado, o Brasil mostrou o seu melhor desempenho com 257 patentes no intervalo.
+De maneira geral, as grandes corporações dominam o depósito de patentes desses produtos. Destaca-se a grande importância de companhias asiáticas e de multinacionais situadas no continente que obtiveram uma performance muito boa nesse recorte.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;conclusão&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Conclusão&lt;/h1&gt;
+&lt;p&gt;O objetivo desse editorial foi explorar, concisamente, o depósito de patentes do setor aeroespacial entre 2000 e 2020, mais precisamente buscou-se evidenciar uma técnica de prospecção de patentes utilizando o pacote &lt;em&gt;patentsview&lt;/em&gt; do software R. Nesse mesmo sentido, verificou-se a metodologia proposta por Lybbert e Zolas &lt;span class=&#34;citation&#34;&gt;(&lt;a href=&#34;#ref-Lybbert2014&#34; role=&#34;doc-biblioref&#34;&gt;2014&lt;/a&gt;)&lt;/span&gt; que estabelece a correspondência probabilística que relaciona os códigos de patentes CPC à classificação de produtos do Sistema Harmonizado. Estas técnicas mostraram-se eficientes e pertinentes para os objetivos propostos.&lt;/p&gt;
+&lt;p&gt;Essa breve análise evidenciou, utilizando como &lt;em&gt;proxy&lt;/em&gt; as patentes, a dissonância tecnológica entre os países que estão na fronteira tecnológica e o Brasil.
+Evidentemente, esses temas são estudados, com maior acurácia, pelos membros do grupo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;referências&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Referências&lt;/h1&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 14px;
+    border-left: 5px solid #ffd700;
+}
+
+
+&lt;/style&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references csl-bib-body&#34; entry-spacing=&#34;1&#34;&gt;
+&lt;div id=&#34;ref-Almeida2006&#34; class=&#34;csl-entry&#34;&gt;
+ALMEIDA, A. L. DE. &lt;strong&gt;&lt;span&gt;A evolu&lt;span&gt;ç&lt;/span&gt;&lt;span&gt;ã&lt;/span&gt;o do poder aeroespacial brasileiro&lt;/span&gt;&lt;/strong&gt;. tese de doutorado—[s.l.] Faculdade de Filosofia, Letras e Ciências Humanas da USP, 2006.
+&lt;/div&gt;
+&lt;div id=&#34;ref-Forjaz2005&#34; class=&#34;csl-entry&#34;&gt;
+FORJAZ, M. C. S. &lt;span&gt;As origens da Embraer&lt;/span&gt;. &lt;strong&gt;Tempo Social, revista de sociologia da USP&lt;/strong&gt;, v. 17, p. 281–298, 2005.
+&lt;/div&gt;
+&lt;div id=&#34;ref-Lybbert2014&#34; class=&#34;csl-entry&#34;&gt;
+LYBBERT, T. J.; ZOLAS, N. J. Getting patents and economic data to speak to each other: An &lt;span&gt;‘algorithmic links with probabilities’&lt;/span&gt; approach for joint analyses of patenting and economic activity. &lt;strong&gt;Research Policy&lt;/strong&gt;, v. 43, n. 3, p. 530–542, 2014.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
