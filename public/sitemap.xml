@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tag/enabed/</loc>
-    <lastmod>2021-09-08T09:00:00+00:00</lastmod>
+    <loc>/tag/bid/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/cgv/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/event/</loc>
-    <lastmod>2021-09-08T09:00:00+00:00</lastmod>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/fapesp/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-09-08T09:00:00+00:00</lastmod>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/bid_2021/bid_2021/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/fapesp_2021/fapesp_2021/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/enabed/</loc>
     <lastmod>2021-09-08T09:00:00+00:00</lastmod>
   </url><url>
     <loc>/event/05_2021/enabed/</loc>
@@ -295,6 +310,27 @@
   </url><url>
     <loc>/publication/ligia_artigo/ligia_2_2018/</loc>
     <lastmod>2018-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/gilberto-mohr-correa/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/gilberto_dissertacao/gilberto_dissertacao/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/charles-araujo-de-souza/</loc>
+    <lastmod>2017-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/desenvolvimento-economico/</loc>
+    <lastmod>2017-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/inovacao/</loc>
+    <lastmod>2017-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/politica-tecnologica/</loc>
+    <lastmod>2017-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/charles_dissertacao_2017/charles_dissertacao/</loc>
+    <lastmod>2017-09-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/gestion-de-proyectos/</loc>
     <lastmod>2017-08-29T00:00:00+00:00</lastmod>
